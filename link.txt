@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/freenetvt/sub-collector/refs/heads/main/singbox.json
